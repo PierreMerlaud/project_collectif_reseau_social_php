@@ -24,7 +24,14 @@ Collectif, 3 personnes.
 - Formulaires
 
 ### Screenshots :<br />
+<br />
 
 ![screenshot1](https://raw.githubusercontent.com/adatechschool/project_collectif_reseau_social-alice-junon-jeremy/master/resoc_n1/img/Screen1.png?token=GHSAT0AAAAAAB46ZCP2UBS4GX7SHIV7WWLGY7YUE3Q "screen1")
+
+---
+
 ![screenshot2](https://raw.githubusercontent.com/adatechschool/project_collectif_reseau_social-alice-junon-jeremy/master/resoc_n1/img/Screen3.png?token=GHSAT0AAAAAAB46ZCP3G3R4WEIG3WWDJVLYY7YUIZQ "screen2")
+
+---
+
 ![screenshot3](https://raw.githubusercontent.com/adatechschool/project_collectif_reseau_social-alice-junon-jeremy/master/resoc_n1/img/Screen2.png?token=GHSAT0AAAAAAB46ZCP3WQCQO5XW3ZMVEB3IY7YUQPQ "screen3")
