@@ -13,7 +13,7 @@ Collectif, 3 personnes.
 
 ### Langage de programmation :
 
-<br/> [![My Skills](https://skillicons.dev/icons?i=html,css,php,mysql,vscode,ai,github,git)](https://skillicons.dev)
+<br/> [![My Skills](https://skillicons.dev/icons?i=react,html,css,php,mysql,vscode,ai,github,git)](https://skillicons.dev)
 
 ### Technologie :
 
