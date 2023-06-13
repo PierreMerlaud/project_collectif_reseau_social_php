@@ -1,4 +1,4 @@
-# Réseau social en PHP
+# Réseau social en PHP (projet en équipe)
 
 ## Descriptif :
 
